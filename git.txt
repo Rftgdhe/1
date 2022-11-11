@@ -10,6 +10,8 @@ git add .
 git commit -m ""
 git push -u origin master
 
+iwfhwhfow	fkw	eh
+
 --------------------------------------
 
 git branch name - Создание ветки name
